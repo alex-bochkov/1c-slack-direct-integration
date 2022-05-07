@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.Customers" id="ace9586e-2391-4820-a68c-a2ef12a13f0f" configVersion="754a3dabbff27f4899d095e679034ce300000000">
+			<Metadata name="Catalog.Customers.TabularSection.Managers.Attribute.DedicatedManager" id="2b15166b-a721-408c-b5cd-ca776117287b"/>
+			<Metadata name="Catalog.Customers.TabularSection.Managers" id="38fc689a-d17c-4374-a2e5-50a7ede7f23a"/>
+			<Metadata name="Catalog.Customers.Attribute.Address" id="8d7569bf-1bb2-4a1f-b536-c9f922ad7e56"/>
+		</Metadata>
+		<Metadata name="Catalog.Managers" id="110239f4-030a-4ca3-98bc-fb41eb7154e4" configVersion="198baf5e769afc4eabcbc1ed7b0e67a500000000">
+			<Metadata name="Catalog.Managers.Attribute.CustomerSupportDescription" id="deef65f7-59af-4bfb-a073-c7c91145a197"/>
+		</Metadata>
+		<Metadata name="Configuration.Configuration" id="e5eb35b3-02a2-4f3f-9308-f6f7c60e8246" configVersion="ba1547a1de1c404698157750b119faef00000000"/>
+		<Metadata name="Constant.AccessToken" id="766d06ba-a812-47cf-ba9f-02280248fbbd" configVersion="03e977b2a945bb418fdb1e2bb02a96f900000000"/>
+		<Metadata name="Constant.ChannelId" id="d5fcbdc4-3d01-4152-841b-4217b4b6166c" configVersion="3155665b3a421b41b8a0506dbb4753b600000000"/>
+		<Metadata name="HTTPService.Slack" id="e6642369-5d6b-4810-bfd4-3064b15ffd1a" configVersion="10a0fd7f0e67c043afa20d84136b4f1b00000000">
+			<Metadata name="HTTPService.Slack.URLTemplate.CustomerForm" id="de4230ee-2998-4d4f-afd5-43ebb6d74c68"/>
+			<Metadata name="HTTPService.Slack.URLTemplate.CustomerForm.Method.POST" id="f0e44a38-9121-42ff-874c-b8b203b18db9"/>
+		</Metadata>
+		<Metadata name="HTTPService.Slack.Module" id="e6642369-5d6b-4810-bfd4-3064b15ffd1a.0" configVersion="9f59d8d9a993a64eae4aa884efa8dee600000000"/>
+		<Metadata name="Language.English" id="2e25847b-2834-40e4-b597-5cf0ecdc1fc6" configVersion="023701a7bc66bb4b8ac445fcbfb6f65400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
