@@ -10,12 +10,12 @@ One of the ways to reduce security risks is to use AWS Lambda as a request proxy
 - Slack application that initiates API calls
 - AWS Lambda function with public URL
 - Web-server with published 1C:Enterprise HTTP services 
-- 1C:Enterprise infobase as a data processes and data target location
+- 1C:Enterprise infobase as the data processor and the data target location
 
 ### AWS Lambda configuration:
-- create new Lambda fuction within the same region as your 1C:Enterprise web-server
+- create a new Lambda fuction within the same region as your 1C:Enterprise web-server
 - use Python 3.x
-- add new Function URL (Configuration page) - this URL will be used by Slack as the API target
+- add a new Function URL (Configuration page) - this URL will be used by Slack as the API target
 - add Python code to proxy the request - modify the target instance IP or DNS name
 ```python
 import json
