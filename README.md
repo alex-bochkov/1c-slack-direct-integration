@@ -1,8 +1,8 @@
-# An example of direct integration between 1C:Enterprise and Slack
-This example demonstrates two-ways integration between 1C:Enterprise and Slack with passing user data between two systems.
+# An example of direct integration 1C:Enterprise and Slack
+This example demonstrates the two-way integration of 1C:Enterprise and Slack with the transfer of user data between the two systems.
 
 There are many ways to build this integration. 
-Given the fact that Slack makes calls on the server side, 1C:Enterprise solution must be publicly available.
+Given the fact that Slack makes calls on the server side, the 1C:Enterprise solution must be publicly available.
 One of the ways to reduce security risks is to use AWS Lambda as a request proxy - it implies that the 1C:Enterprise Infobase is running in AWS.
 *This example does not include any security checks or configurations that you must have in place in the production environment.*
 
